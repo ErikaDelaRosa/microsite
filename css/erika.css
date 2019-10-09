@@ -1,0 +1,43 @@
+h1{
+    background-color: none;
+    text-align: left;
+}
+body{
+    background-image:url("../img/rose.jpg"); 
+    background-size: cover;
+    margin:10%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(235, 113, 154);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.h1{
+    font-style: normal;
+    font-family:'Pacifico', cursive;
+    font-size: 50px;
+    color: rgb(127, 37, 211);
+}
+
+p{
+    font-family:'Pacifico', cursive;;
+    font-size: 23px;
+    font-style: inherit;
+    color: darkorchid;
+}
+
+ul,li {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    font-style: normal;
+    color: darkorchid;
+    
+}
+.signature,.viele{
+    padding-left:85%;
+    font-family: 'Pacifico', cursive;
+    font-size: 22px;
+    color:darkorchid;
+} 
